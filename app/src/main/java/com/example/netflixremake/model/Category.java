@@ -2,7 +2,7 @@ package com.example.netflixremake.model;
 
 import java.util.List;
 
-public class Category {
+public class   Category {
 
     private String name;
     private List<Movie> movies;
